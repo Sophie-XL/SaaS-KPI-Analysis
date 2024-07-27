@@ -1,0 +1,1 @@
+DELIVR is a Food delivery startup, similar to to UberEats. It stocks meals from eateries in bulk and offers users these meals through its app. Users can order meals from several eateries in one order.
