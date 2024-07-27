@@ -26,3 +26,12 @@ The SQL code demonstrates a range of advanced SQL techniques and concepts, inclu
 - [x] **Window Functions**: Applied to calculate running totals, growth rates, and rankings, providing deeper insights into trends and performance metrics.
 - [x] **Date Truncation and Formatting**: Used to group data by specific time periods (e.g., weeks, months, quarters) for time-based analysis.
 - [x] **Pivot Tables**: Created using the `tablefunc` extension to transform and summarize data in a more digestible format for executive reporting.
+
+## SaaS Business Knowledge Demonstrated
+
+The analysis showcases a comprehensive understanding of key SaaS metrics and their applications:
+
+- [x] **Revenue Metrics**: Monthly Recurring Revenue (MRR) and Average Revenue Per User (ARPU) are essential for understanding predictable income streams.
+- [x] **User Engagement and Retention**: Monthly Active Users (MAU) and Retention Rate are important to understand how well the platform retains users over time, crucial for long-term business sustainability
+- [x] **Growth Metrics**: User Registration Trends and Month-over-Month (MoM) Growth Rates can be used to assess the platform’s growth trajectory and the effectiveness of marketing campaigns
+- [x] **User Segmentation and Distribution** can help in designing targeted marketing and retention strategies
